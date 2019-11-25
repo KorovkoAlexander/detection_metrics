@@ -12,6 +12,6 @@ setup(
     author_email='korovkoalexander@yandex.ru',
     description='',
     install_requires=[
-        "numpy==1.15.4",
+        "numpy>=1.15.4",
 ]
 )
